@@ -2,6 +2,8 @@ Amadeus
 The fifth elemnt
 Captain Fantastic
 Shogun
+ham
+cheese
 oranges
 grapes
 bananas
